@@ -1,3 +1,8 @@
+# Membros:
+- [@luizacampello] (https://github.com/luizacampello)
+- [@teatrologa] (https://github.com/teatrologa)
+- [@takeshinishikawa] (https://github.com/takeshinishikawa)
+
 <!DOCTYPE html>
 <html>
 <head>
